@@ -38,7 +38,7 @@ Project2/
 │   │  
 │   ├── data/  
 │   │   └── connect4 website.txt       # reference link  
-│   │  
+  
 │   └── report/  
 │       └── CS Project 2 Report.docx  
 │  
@@ -48,13 +48,16 @@ Project2/
 │   ├── puzzles/  
 │   │   └── sudoku.json                # the 16×16 puzzle you uploaded  
 │   │  
-│   ├── results/  
-│   │   ├── performance_plots/         # MRV vs Random, FC vs MAC, LCV vs Standard  
-│   │   └── solved_examples/           # solved puzzle outputs (optional)  
-│   │  
-│   └── report/  
-│       └── CS Project 2 Report.docx   # same report or separate if needed  
-│  
+│   ├──  report/  
+│   │    └── CS Project 2 Report.docx   # same report or separate if needed  
+│   │
+│   └── results (performance_plots)/  
+│       ├── Comparison - Inf - FC vs MAC - for 9x9 40 empty.png  
+│       ├── Comparison - Inf - FC vs MAC - for 9x9 60 empty.png
+│       ├── Comparison - Random vs MRV - for 9x9 40 empty.png  
+│       ├── Comparison - Value Selection - Standard Order vs LCV - for 9x9 40 empty.png 
+│       └── Comparison - Value Selection - Standard Order vs LCV - for 9x9 60 empty.png  
+|
 └── LICENSE (optional)  
 
 
